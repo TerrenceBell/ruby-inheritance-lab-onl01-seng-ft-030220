@@ -7,6 +7,6 @@ def learn(stuff)
   @knowledge << stuff 
 end 
 def knowledge
-  @knowledge.length
+  @knowledge
 end
 end
